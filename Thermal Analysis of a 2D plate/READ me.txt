@@ -1,0 +1,4 @@
+A program that simulates the thermal analysis of a 2D plate with a specific heat source
+
+Explanation:
+The program should simulate the temperature distribution on the plate over time using the Finite Difference Method (FDM). The simulation should be run for a specified number of time steps, and the final temperature distribution should be plotted on a 2D graph.
